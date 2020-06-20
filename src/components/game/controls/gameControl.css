@@ -1,0 +1,17 @@
+.controls {
+    position: absolute;
+    bottom: 0px;
+}
+
+.buttons {
+    width: 10vw;
+}
+
+.button-bar {
+    position: fixed;
+    display: block;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

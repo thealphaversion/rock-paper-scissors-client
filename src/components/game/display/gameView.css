@@ -1,0 +1,16 @@
+.message {
+    position: sticky;
+    left: 30%;
+}
+
+.opponent {
+    position: sticky;
+    right: 30%;
+}
+
+.view-message {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
